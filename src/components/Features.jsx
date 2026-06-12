@@ -3,7 +3,7 @@ const features = [
         title: "शिक्षा",
         description:
             "आधुनिक विद्यालय, डिजिटल शिक्षा और उज्जवल भविष्य की दिशा में प्रयास।",
-        image: "public/Screenshot 2026-06-12 115215.png",
+        image: "Screenshot 2026-06-12 115215.png",
     },
     {
         title: "किसान",
