@@ -9,25 +9,25 @@ const features = [
         title: "किसान",
         description:
             "कृषि विकास, आधुनिक खेती और किसानों की समृद्धि के लिए योजनाएं।",
-        image: "public/Screenshot 2026-06-12 115204.png",
+        image: "Screenshot 2026-06-12 115204.png",
     },
     {
         title: "सड़क",
         description:
             "बेहतर सड़क संपर्क और मजबूत आधारभूत संरचना का विकास।",
-        image: "public/Screenshot 2026-06-12 115248.png",
+        image: "Screenshot 2026-06-12 115248.png",
     },
     {
         title: "पंचायत",
         description:
             "पारदर्शी प्रशासन और ग्राम पंचायत की डिजिटल सेवाएं।",
-        image: "public/Screenshot 2026-06-12 115238.png",
+        image: "Screenshot 2026-06-12 115238.png",
     },
     {
         title: "डिजिटल पहचान",
         description:
             "गांव को डिजिटल रूप से जोड़कर नई पहचान और अवसर प्रदान करना।",
-        image: "public/Screenshot 2026-06-12 115227.png",
+        image: "Screenshot 2026-06-12 115227.png",
     },
 ];
 
