@@ -58,7 +58,7 @@ const Hero = () => {
                         <div className="absolute inset-0 bg-green-200 rounded-3xl rotate-3"></div>
 
                         <img
-                            src="public/Screenshot 2026-06-12 115150.png"
+                            src="Screenshot 2026-06-12 115150.png"
                             alt="Visionary Rural Leader"
                             className="relative rounded-3xl shadow-2xl w-full object-cover"
                         />
